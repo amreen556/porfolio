@@ -357,20 +357,17 @@ section.start-animation .title{
     height: 25rem;
     width: 50rem;
     border: .2rem solid rgba(255,255,255,.3);
-    border-radius: 10%;
 }
 
 .cimg{
     height: 25rem;
     width: 50rem;
     border: .2rem solid rgba(255,255,255,.3);
-    border-radius: 10%;
 }
 .pimg{
     height: 25rem;
     width: 50rem;
     border: .2rem solid rgba(255,255,255,.3);
-    border-radius: 10%;
 }
 section.start-animation .aboutImg{
     animation: scaleout 1s ease forwards;
